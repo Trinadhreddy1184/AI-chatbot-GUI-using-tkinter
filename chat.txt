@@ -1,0 +1,32 @@
+Bot: This is your chat bot to assist you about Machine Learning!
+
+User: hi
+Bot: hola
+User: machine learning\
+Bot:  The following concepts are explained in this article:
+
+Fundamentals of machine learning
+
+Supervised versus unsupervised learning
+
+Building a model
+
+Pipelines in machine learning
+
+Fundamentals of machine learning
+
+In this section, we discuss some of the basic terminologies that are used while working with a machine learning project. It is part of the Machine learning for developers learning path. Supervised versus unsupervised machine learning
+
+Supervised machine learning
+
+Supervised machine learning refers to the type of problems in which each record in the the data set contains a label or a flag.
+User: tensors
+Bot:  What are tensors? Tensors are data that is represented in a multi-dimensional space. Tensors can be handy in some aspects, such as image processing.
+User: tensors
+Bot:  What are tensors? Tensors are data that is represented in a multi-dimensional space. Tensors can be handy in some aspects, such as image processing.
+User: tensors
+Bot:  What are tensors? Tensors are data that is represented in a multi-dimensional space. Tensors can be handy in some aspects, such as image processing.
+User: linear algebra
+Bot:  Linear algebra
+
+Linear algebra is a field in mathematics that deals with correlations between variables. Understanding the basics of linear algebra goes a long way in helping to understand some of the basics of machine learning. It’s called linear because the output variable can be expressed in terms of the input variables with powers (exponents) not greater than one.
