@@ -9,5 +9,6 @@
 2. This application uses NLP and reads the Article you provide and give responses that are relavent to users query.
 3. As some of the queries might not be understandable by chatbot but consider that it only provides based on that Article. 
 4. Defaultly we give Article based on Machine Learning but you can change the topic whatever you want by replacing Article link by your custom Article link(line 16 main.py).
-5. After changes use ide such as 'Pycharm' for better visualization and interface.This is completely optional.
-6. Thats it you are ready to use your chat bot !    
+5. After changes use ide such as 'Pycharm' for better visualization and interface.This is completely optional.   
+##### You can also see the sample output in 'chat.txt' file.
+##### Thats it you are ready to use your chat bot !  
